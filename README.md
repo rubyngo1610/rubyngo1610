@@ -9,7 +9,7 @@ I'm Ruby Ngo, a Master's student in Data Science at New York University and a fo
 
 I want to build AI-powered products that change how people discover, consume, and interact with creative and intellectual expression. Some projects I've worked on include:
 
-- **[Mapping Primate Microglia across the Brain](https://canva.link/ahanvcmftd3r573}**, an incremental deep learning pipeline that maps quantifies primate glial cells 
+- **[Mapping Primate Microglia across the Brain](https://canva.link/ahanvcmftd3r573)**, an incremental deep learning pipeline that maps quantifies primate glial cells 
 - **Copyright Laundering in Agentic AIs** (2026), a study of copyright and ethics risks in generative, agentic AI systems.
 - **ODD Gaming Toxicity Detection** (2026), detecting toxic behavior in gaming communities.
 - **Daily Feedback Intelligence Report Agent** (2026), an AI agent on Cloudflare that turns daily user feedback into product insights.
