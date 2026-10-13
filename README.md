@@ -13,7 +13,7 @@ I want to build AI-powered products that change how people discover, consume, an
 - **Copyright Laundering in Agentic AIs** (2026), a study of copyright and ethics risks in generative, agentic AI systems.
 - **ODD Gaming Toxicity Detection** (2026), detecting toxic behavior in gaming communities.
 - **Daily Feedback Intelligence Report Agent** (2026), an AI agent on Cloudflare that turns daily user feedback into product insights.
-- - 🎹 [rubyngo1610.github.io](https://github.com/rubyngo1610/rubyngo1610.github.io) (2026), my portfolio with an interactive piano homepage and a practice-tracking heatmap.
+- 🎹 [rubyngo1610.github.io](https://github.com/rubyngo1610/rubyngo1610.github.io) (2026), my portfolio with an interactive piano homepage and a practice-tracking heatmap.
 - 💎 **Maison de Bijoux** (2025), a Cartier jewelry recommender using generative AI and K-Modes clustering.
 - 🍽️ **[SnapEat](https://devpost.com/software/hello-mqav0p)** (Google AI Hackathon, 2024), a computer vision and generative AI app for food.
 - 🎵 **Music Industry Revenues During Recessions** (2021), a time-series regression on how digital and physical recorded-music revenues hold up in downturns.
