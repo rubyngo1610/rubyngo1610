@@ -1,5 +1,4 @@
 # rubyngo1610
-About Me
 ### Hey there! 👋
 
 [![Website](https://img.shields.io/badge/visit%20my-website-7eb8c9)](https://rubyngo1610.github.io)
