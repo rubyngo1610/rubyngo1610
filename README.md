@@ -9,7 +9,7 @@ I'm Ruby Ngo, a Master's student in Data Science at New York University and a fo
 
 I want to build AI-powered products that change how people discover, consume, and interact with creative and intellectual expression. Some projects I've worked on include:
 
-- **Copyright Laundering in Agentic AIs** (2026), a study of copyright and ethics risks in generative, agentic AI systems.
+- **[Copyright Laundering in Agentic AI](https://devpost.com/software/hello-mqav0p)s** (2026), a study of copyright and ethics risks in generative, agentic AI systems.
 - **ODD Gaming Toxicity Detection** (2026), detecting toxic behavior in gaming communities.
 - **Daily Feedback Intelligence Report Agent** (2026), an AI agent on Cloudflare that turns daily user feedback into product insights.
 - 💎 **Maison de Bijoux** (2025), a Cartier jewelry recommender using generative AI and K-Modes clustering.
